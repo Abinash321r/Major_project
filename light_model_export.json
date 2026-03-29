@@ -1,0 +1,13 @@
+{
+  "weights": [
+    8.407978124067437,
+    2.2317050686300735,
+    5.6247311654321965
+  ],
+  "bias": -6.2395383774836,
+  "feature_scaling": {
+    "meanBrightness_max": 255.0,
+    "contrast_max": 128.0,
+    "brightnessRange_max": 255.0
+  }
+}
